@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CucumberBDD/Features/MyAccount-Login(data_driven).feature&apos; to &apos;MyAccount-Login_data_driven.feature&apos;" description="Rename resource &apos;MyAccount-Login(data_driven).feature&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Features/MyAccount-Login(data_driven).feature" name="MyAccount-Login_data_driven.feature" stamp="1613988095054" updateReferences="true"/>
+</session>

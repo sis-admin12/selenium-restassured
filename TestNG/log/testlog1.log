@@ -1,0 +1,14 @@
+2021-02-12 15:00:10,867 [main] INFO Log4jdemo - Setup method is tarted
+2021-02-12 15:00:10,871 [main] INFO Log4jdemo - Setup method is progress
+2021-02-12 15:00:10,880 [main] INFO Log4jdemo - login is started
+2021-02-12 15:00:10,880 [main] INFO Log4jdemo - login is progress
+2021-02-12 15:00:10,880 [main] INFO Log4jdemo - login is completed
+2021-02-12 15:00:10,881 [main] INFO Log4jdemo - login is passed
+2021-02-12 15:00:10,886 [main] INFO Log4jdemo - logout is completed
+2021-02-12 15:01:49,322 [main] INFO Log4jdemo - Setup method is started
+2021-02-12 15:01:49,326 [main] INFO Log4jdemo - Setup method is progress
+2021-02-12 15:01:49,331 [main] INFO Log4jdemo - login is started
+2021-02-12 15:01:49,332 [main] INFO Log4jdemo - login is progress
+2021-02-12 15:01:49,333 [main] INFO Log4jdemo - login is completed
+2021-02-12 15:01:49,334 [main] INFO Log4jdemo - login is passed
+2021-02-12 15:01:49,337 [main] INFO Log4jdemo - logout is completed
