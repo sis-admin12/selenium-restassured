@@ -26,14 +26,17 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="MavenCucumber.MavenCucumber"/>
 			<item value="CucumberBDD.CucumberBDD"/>
 			<item value="nopCommerce.nopCommerce"/>
 		</list>
 		<list key="groupId">
+			<item value="MavenCucumber"/>
 			<item value="CucumberBDD"/>
 			<item value="nopCommerce"/>
 		</list>
 		<list key="artifactId">
+			<item value="MavenCucumber"/>
 			<item value="CucumberBDD"/>
 			<item value="nopCommerce"/>
 		</list>
